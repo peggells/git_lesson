@@ -1,0 +1,6 @@
+# add files one per line to mark them as not to be staged
+secrets.txt
+
+# Things to note:
+# - Use the '#' sign to do comments
+# - Use '*' as a wildcard symbol (e.g. *.txt will mark all .txt files as to be ignored)
